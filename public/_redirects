@@ -1,1 +1,1 @@
-/post/* /post/[slug].html 200
+/post/:slug /post/[slug] 200
